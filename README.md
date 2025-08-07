@@ -1,11 +1,11 @@
 ## Azure (Cloud Computing)
 
 # Tipos de cloud:
- 	-> Privado (on premise) > modelo no qual todo o hardware está situado na própria empresa para a qual a nuvem funcionará exclusivamente.
+    -> Privado (on premise) > modelo no qual todo o hardware está situado na própria empresa para a qual a nuvem funcionará exclusivamente.
 
- 	-> Pública > provedor externo contratado, totalmente externo à empresa contratante
+    -> Pública > provedor externo contratado, totalmente externo à empresa contratante
 
- 	-> Híbrida > ambas trabalhando em conjunto, até mesmo distribuindo entre serviços externos diversos. P. ex.: a empresa utiliza serviços em nuvem da Amazon (AWS), Microsoft (Azure) e Google (Google Cloud Platform)
+    -> Híbrida > ambas trabalhando em conjunto, até mesmo distribuindo entre serviços externos diversos. P. ex.: a empresa utiliza serviços em nuvem da Amazon (AWS), Microsoft (Azure) e Google (Google Cloud Platform)
 
 # Recursos disponíveis:
 
