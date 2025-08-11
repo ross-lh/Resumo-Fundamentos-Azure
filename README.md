@@ -32,3 +32,36 @@
 * Elasticidade e Escalabilidade
 * Governança e Confiabilidade
 * Segurança
+
+## -- Modelos de operação -- ##
+
+### IaaS (Interface as a Service)
+As instalações físicas são a única parte alheia ao cliente, neste modelo, no qual o contratante dos serviços é responsável por todo o restante da operação.
+> Responsabilidades do usuário:
+> * Personalização da infraestrutura utilizada
+> * Configuração completa
+> * Backup
+> * Modelo de acesso
+> * Redes
+> * Gerenciamento e monitoramento manuais
+> entre outros
+
+### PaaS (Platform as a Service)
+Aqui a infraestrutura e suas variáveis não fazem mais parte do pacote, centralizando os serviços e aplicações em si para focalizar apenas na performance e necessidades específicas.
+> Responsabilidades do usuário:
+> * Aplicações / Serviços
+> * Foco em performance
+> * Configurações menos abrangentes
+
+### SaaS (Software as a Service)
+Aplicativos prontos para uso, geralmente com GUI amigável e voltados ao público geral, focando em configurações locais e internas à organização.
+> Exemplos:
+> * MS Office 365
+> * MS Teams
+> * MS Outlook, Calendários etc
+
+-- ## --
+
+- A cada nível, o grau de configuração, responsabilidades, manutenção e detalhamento de cada <strong>Serviço</strong> diminui, como em linguagens de programação, nas quais, quanto maior o nível, menor fica a verbosidade, complexidade para codar.
+
+![modelo gráfico de responsabilidade compartilhada detalhado por nível de atuação](shared-responsibility.svg)
